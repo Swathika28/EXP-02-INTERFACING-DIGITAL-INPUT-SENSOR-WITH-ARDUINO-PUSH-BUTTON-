@@ -98,6 +98,6 @@ Output of the simulation :
 
 Result:
 
-Thus the simulation 
+Thus the simulation output is completed in tinkercad 
 
 
